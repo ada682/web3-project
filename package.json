@@ -1,0 +1,15 @@
+{
+  "name": "web3-project",
+  "version": "1.0.0",
+  "description": "A Web3 project for interacting with Ethereum smart contracts",
+  "main": "scripts/deploy.js",
+  "dependencies": {
+    "web3": "^1.6.0"
+  },
+  "scripts": {
+    "deploy": "node scripts/deploy.js",
+    "interact": "node scripts/interact.js"
+  },
+  "author": "ada682",
+  "license": "MIT"
+}
