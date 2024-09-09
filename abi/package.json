@@ -10,7 +10,7 @@
     "deploy": "node scripts/deploy.js",
     "interact": "node scripts/interact.js"
   },
-  "author": "Your Name",
+  "author": "ada682",
   "license": "MIT"
 }
 
